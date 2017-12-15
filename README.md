@@ -3,8 +3,7 @@
 ### Friday, Dec 15th
 
 ### Exercise
-Exercise
-
+___
 Create the following array in Ruby:
 ```
 venues = [
